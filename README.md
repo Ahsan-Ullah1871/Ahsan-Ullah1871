@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://www.linkedin.com/in/ahsan-ullah-126591203/
 [npm]: https://npmjs.com/ 
