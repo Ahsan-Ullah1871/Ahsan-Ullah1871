@@ -5,14 +5,13 @@
 <!--
 **Ahsan-Ullah1871/Ahsan-Ullah1871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![bg][banner]][website]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React,Next.js,MongoDB.
-- 💬 Ask me about HTML,CSS,JavaScript,TypeScript and Full Stack development.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve any programming related problem in a few time.
+### lead frontend developer at [adobe][adobe] who likes emoji and typing in lowercase
 
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -22,10 +21,18 @@ Here are some ideas to get you started:
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
 [firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
-[youtube]: https://youtube.com/
-[linkedin]: https://www.linkedin.com/in/ahsan-ullah-126591203/
-[npm]: https://npmjs.com/ 
+[website]: https://bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[youtube]: https://youtube.com/bradgarropy
+[twitch]: https://twitch.tv/bradgarropy
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[npm]: https://npmjs.com/~bradgarropy
