@@ -23,7 +23,7 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/Adobe Design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871 &show_icons=true&count_private=true)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Ullah1871 )  
 
