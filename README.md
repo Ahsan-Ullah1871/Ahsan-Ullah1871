@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[react]: http://reactjs.org
 [firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [next]: https://nextjs.org
