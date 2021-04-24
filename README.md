@@ -3,14 +3,14 @@
 #### #Development #Design
 ![#Development #Design](https://www.journeyfortech.com/user_upload/2.jpg)
 
-I am Ahsan from Bangladesh. I am a junior web developer. I have a lot of good skills and experience in HTML, CSS, Bootstrap and JavaScript.
+I am Ahsan from Bangladesh. I am a junior web developer. I have a lot of good skills and experience in HTML, CSS, Bootstrap ,Metarial UI, JavaScript , React and Node.js.
 And I can design a variety of graphics, including web designing.
-Besides, I am learning TypeScript, React, MongoDb.
+Besides, I am learning React-Native, Next.js, Tailwind CSS.
 
-Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/Adobe Design 
+Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React/Node.js/MongoDb 
+- 🌱 I’m currently learning React-Native/Next.js/Tailwind Css.
 - 💬 Ask me about anything about programming and coding. 
 - ⚡ Fun fact: I can handle  any  programming related problem in few time.  
 
