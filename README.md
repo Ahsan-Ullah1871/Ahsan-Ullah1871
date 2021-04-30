@@ -23,12 +23,15 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
   <br/>
   ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
+  <div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
+  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871)](https://github.com/anuraghazra/github-readme-stats)
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Ullah1871 )  
   ![GitHub metrics](https://metrics.lecoq.io/Ahsan-Ullah1871 )  
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Ullah1871 ) 
+</div>
  
 
 
