@@ -23,25 +23,13 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
   <br/>
   ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
 
-<p align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-<p align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Ullah1871 )  
-</p>
-<p align="center">
- ![GitHub metrics](https://metrics.lecoq.io/Ahsan-Ullah1871 )  
-</p>
-<p align="center"> 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Ullah1871 ) 
-</p>
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Ullah1871 )  
+  ![GitHub metrics](https://metrics.lecoq.io/Ahsan-Ullah1871 )  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Ullah1871 ) 
+ 
 
 
 
