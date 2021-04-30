@@ -1,21 +1,22 @@
 
-### Hi there 👋, my name is Ahsan
-#### #Development #Design
+### <h2  align="center"> Hi there 👋, my name is Ahsan </h2>
+#### #Web Developer . JavaScript | React | Node.js developer
 ![#Development #Design](https://www.journeyfortech.com/user_upload/2.jpg)
 
-I am Ahsan from Bangladesh. I am a junior web developer. I have a lot of good skills and experience in HTML, CSS, Bootstrap ,Metarial UI, JavaScript , React and Node.js.
+I am Ahsan from Bangladesh.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
 And I can design a variety of graphics, including web designing.
-Besides, I am learning React-Native, Next.js, Tailwind CSS.
-
+Besides, I am learning React-Native and Next.js.
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React-Native/Next.js/Tailwind Css.
+ - 🌱 I’m currently learning React-Native and Next.js.
 - 💬 Ask me about anything about programming and coding. 
 - ⚡ Fun fact: I can handle  any  programming related problem in few time.  
 
-
+<div align="center">
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahsan-Ullah1871 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsan-ullah-126591203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ahsan1871/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/users/14908654/ahsan-ullah)  
+
+  </div>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
