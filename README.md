@@ -32,9 +32,12 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
   
   <hr/>
   
-  
-  ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
+<p align="center">
+ 
+   ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
 
+ 
+</p>
  [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
