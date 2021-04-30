@@ -19,15 +19,22 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
   </div>
   
   <hr/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahsan-Ullah1871&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan" /> </p>
+  ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
 
- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan-Ullah1871 )](https://github.com/ryo-ma/github-profile-trophy)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871 )](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan-Ullah1871 )  
+  
+  
   ![GitHub metrics](https://metrics.lecoq.io/Ahsan-Ullah1871 )  
+  
+  
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Ullah1871 ) 
   
 
