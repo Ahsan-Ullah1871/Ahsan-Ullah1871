@@ -14,7 +14,12 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 
 <div align="center">
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahsan-Ullah1871 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsan-ullah-126591203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ahsan1871/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/users/14908654/ahsan-ullah)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahsan-Ullah1871 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahsan-ullah-126591203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/users/14908654/ahsan-ullah)  
+
+<h5 align="center">
+  <code><a href="https://www.facebook.com/Ahsan1871/" target="blank" title="Facebook Profile"><img width="22"  src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png'> Facebook </a></code>
+   <code><a href="https://www.linkedin.com/in/ah1871/" target="blank" title="LinkedIn Profile"><img width="22" src='https://image.flaticon.com/icons/png/512/174/174857.png'> LinkedIn</a></code>
+ </h5>
 
   </div>
   
