@@ -1,8 +1,7 @@
 
 ### <h2  align="center"> Hi there 👋, my name is Ahsan </h2>
 #### #Web Developer . JavaScript | React | Node.js developer
-![#Development #Design](https://www.journeyfortech.com/user_upload/2.jpg)
-
+ 
 I am Ahsan from Bangladesh.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
 And I can design a variety of graphics, including web designing.
 Besides, I am learning React-Native and Next.js.
