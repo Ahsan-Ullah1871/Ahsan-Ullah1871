@@ -5,7 +5,7 @@
 
 #### #Web Developer . JavaScript | React | Next.js developer
  
-I am Ahsan from Bangladesh.I am a web developer.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React,Next js, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
+I am Ahsan .I am a web developer.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React,Next js, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
 And I can design a variety of graphics, including web designing.
 
  - 🌱 I’m currently learning Python.
@@ -91,7 +91,14 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Ullah1871&hide_border=true&theme=radical" />
 </p>
 
- 
+
+ <!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahsan-Ullah1871&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahsan-Ullah1871&theme=nord_dark)
+  
+
+
 
    
   
