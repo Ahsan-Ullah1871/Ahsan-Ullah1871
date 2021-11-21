@@ -3,7 +3,7 @@
 
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
-#### #Web Developer . JavaScript | React | Next.js developer
+#### Web Developer . JavaScript | React | Next.js developer
  
 I am Ahsan .I am a web developer.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React,Next js, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
 And I can design a variety of graphics, including web designing.
