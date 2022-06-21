@@ -1,5 +1,5 @@
 
-# Hey, I am Ahsan! Great to see you here! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="10px">
+# Hey, I am Ahsan! Great to see you here! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="10px" height="20px">
 
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
