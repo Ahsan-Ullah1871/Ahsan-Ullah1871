@@ -8,9 +8,8 @@
 I am Ahsan .I am a web developer.   I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React,Next js, HTML, CSS, Bootstrap, Material UI, Tailwind CSS, and Node.js.
 And I can design a variety of graphics, including web designing.
 
- - 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Backend technologies.
 - 💬 Ask me about anything about programming and coding. 
-- ⚡ Fun fact: I can handle  any  programming related problem in few time.  
 
 
 Find out more about me & feel free to connect with me here:
