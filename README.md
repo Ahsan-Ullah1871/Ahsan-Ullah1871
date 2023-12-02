@@ -74,17 +74,20 @@ Find out more about me & feel free to connect with me here:
 
 ## 📈 Stats
 
-| Github Stats | Used Languages |
+| Github Stats | Streak Stats |
 | --- | --- |
-| ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ahsan's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Ahsan's github stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ullah1871&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahsan-Ullah1871&theme=dark&card_width=400&type=png)](https://git.io/streak-stats) |
 
 
 
 
  <!--   Top Languages Using -->
-### 👨‍💻 Top Languages:
-![Ahsan's top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahsan-Ullah1871&theme=nord_dark&count_private=true)
-  
+### 👨‍💻 Languages:
+
+| Used Languages | Top used languages |
+| --- | --- |
+|![Ahsan's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ullah1871&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)| ![Ahsan's top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahsan-Ullah1871&theme=nord_dark&count_private=true) |
+
 
 
 
